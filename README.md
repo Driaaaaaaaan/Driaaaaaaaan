@@ -1,16 +1,31 @@
-## Hi there 👋
+# 👋 Hi, I'm Mark Adrian Cale
 
-<!--
-**Driaaaaaaaan/Driaaaaaaaan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Fresh Graduate | 💻 Aspiring Web Developer | 🚀 Always Learning  
 
-Here are some ideas to get you started:
+I'm a Computer Science graduate passionate about building responsive and functional websites using:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌐 HTML, CSS, JavaScript  
+- 🛠️ PHP & basic Laravel  
+- 📝 WordPress (custom themes & plugins)  
+- 💾 MySQL  
+- 🧰 Tools: VS Code, Git, GitHub, Laragon, Figma
+
+🌱 Currently exploring more about Laravel and modern web development practices.  
+🔍 Looking for opportunities to grow and collaborate on real-world projects.
+
+---
+
+## 📈 GitHub Stats
+
+![Drian's GitHub Stats](https://github-readme-stats.vercel.app/api?Driaaaaaaaan&show_icons=true&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Driaaaaaaaan&layout=compact&theme=tokyonight)
+
+---
+
+## 📫 Let's Connect
+
+- 📧 Email: calemarkadrian@gmail.com 
+- 🌐 Portfolio: [your-portfolio-link.com](https://your-portfolio-link.com)  
+- 💼 LinkedIn: [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)
+
