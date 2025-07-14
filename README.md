@@ -26,6 +26,6 @@ I'm a Computer Science graduate passionate about building responsive and functio
 ## 📫 Let's Connect
 
 - 📧 Email: calemarkadrian@gmail.com 
-- 🌐 Portfolio: [your-portfolio-link.com](https://your-portfolio-link.com)  
+- 🌐 Portfolio:  
 
 
