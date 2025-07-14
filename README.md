@@ -4,8 +4,8 @@
 
 I'm a Computer Science graduate passionate about building responsive and functional websites using:
 
-- 🌐 HTML, CSS, JavaScript  
-- 🛠️ PHP & basic Laravel  
+- 🌐 HTML, CSS, JavaScript, Bootstrap, Tailwind, Basic React 
+- 🛠️ PHP & Laravel  
 - 📝 WordPress (custom themes & plugins)  
 - 💾 MySQL  
 - 🧰 Tools: VS Code, Git, GitHub, Laragon, Figma
