@@ -17,8 +17,6 @@ I'm a Computer Science graduate passionate about building responsive and functio
 
 ## 📈 GitHub Stats
 
-![Drian's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Driaaaaaaaan&show_icons=true&theme=tokyonight)
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Driaaaaaaaan&layout=compact&theme=tokyonight)
 
 ---
