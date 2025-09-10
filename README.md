@@ -15,12 +15,6 @@ I'm a Computer Science graduate passionate about building responsive and functio
 
 ---
 
-## 📈 GitHub Stats
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Driaaaaaaaan&layout=compact&theme=tokyonight)
-
----
-
 ## 📫 Let's Connect
 
 - 📧 Email: calemarkadrian@gmail.com 
