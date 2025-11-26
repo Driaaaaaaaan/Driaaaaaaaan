@@ -10,7 +10,7 @@ I'm a Computer Science graduate passionate about building responsive and functio
 - 💾 MySQL  
 - 🧰 Tools: VS Code, Git, GitHub, Laragon, Figma
 
-🌱 Currently exploring more about Laravel and modern web development practices.  
+🌱 Currently exploring more about Laravel and react.  
 🔍 Looking for opportunities to grow and collaborate on real-world projects.
 
 ---
