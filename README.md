@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Mark Adrian Cale
+# Hi, I'm Mark Adrian Cale
 
 🎓 Fresh Graduate | 💻 Aspiring Web Developer | 🚀 Always Learning  
 
